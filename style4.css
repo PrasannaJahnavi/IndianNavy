@@ -1,0 +1,30 @@
+body
+{
+font-style:Arial,sans-serif;
+}
+h1
+{
+text-align:center;
+}
+header
+{
+width:80%;
+background-color:silver;
+margin-left:auto;
+margin-right:auto;
+padding:5px;
+border-style:double dotted;
+border-color:black;
+border-width:5px;
+}
+section
+{
+width:80%;
+background-color:blue;
+margin-left:auto;
+margin-right:auto;
+padding:5px;
+border-style:double dotted;
+border-color:black;
+border-width:5px;
+}
